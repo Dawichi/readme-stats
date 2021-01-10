@@ -267,7 +267,7 @@ const themes = {
     title_color: "ffffff",
     icon_color: "ffffff",
     text_color: "ffffff",
-    bg_color: "353535",
+    bg_color: "2d2d2d",
   },
 };
 
