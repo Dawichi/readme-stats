@@ -264,7 +264,7 @@ const themes = {
     bg_color: "402b23"
   },
   custom: {
-    title_color: "2f80ed",
+    title_color: "ffffff",
     icon_color: "ffffff",
     text_color: "ffffff",
     bg_color: "353535",
